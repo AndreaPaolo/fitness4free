@@ -13,8 +13,9 @@ DefaultContentLanguageInSubdir = true
     languageName = "Italiano"
     [languages.it.params]
       introTitle = "Fitness 4 Free"
-      introSubtitle = "Fugiat enim ad culpa ad reprehenderit nulla tempor aute nostrud aliquip irure consectetur fugiat aliquip."
+      introSubtitle = "Un nuovo modo di concepire il fitness"
       introPhoto = "/logo.svg"
+      frontBundle = "schede"
       #logo = "/logo.svg"
     [[languages.it.menu.main]]
         name = "Il progetto"
@@ -22,30 +23,38 @@ DefaultContentLanguageInSubdir = true
         weight = 1
     [[languages.it.menu.main]]
         name = "Schede"
-        url = "blog"
+        url = "schede"
         weight = 2
     [[languages.it.menu.main]]
         name = "Allenamenti"
         url = "tags"
         weight = 3
+    [languages.it.params.homepage.social]
+        # Global params common for both languages
+        title = "Contattami"
+        description = "Se hai delle richieste o vuoi delle informazioni non esitare a contattarmi!"
+        #instagram = "https://"
+        #youtube=""
+        email = "mailto:info@fitness4free.it"
 
     #English  
     [languages.en]
-    contentDir = "content/en" #English
-    weight = 1
-    languageName = "English"
+        contentDir = "content/en" #English
+        weight = 1
+        languageName = "English"
     [languages.en.params]
       introTitle = "Fitness 4 Free"
-      introSubtitle = "Do excepteur id commodo voluptate et commodo ex adipisicing."
+      introSubtitle = "A new way of thinking about fitness"
       introPhoto = "/logo.svg"
+      frontBundle = "training_sheets"
       #logo = "/logo.svg"
     [[languages.en.menu.main]]
         name = "The project"
         url = "page/project/"
         weight = 1
     [[languages.en.menu.main]]
-        name = "Programs"
-        url = "blog"
+        name = "Training sheets"
+        url = "training_sheets"
         weight = 2
     [[languages.en.menu.main]]
         name = "Workouts"
@@ -55,6 +64,13 @@ DefaultContentLanguageInSubdir = true
         #name = "Top Post"
         #url = "/en/blog/emoji-support/"
         #weight = 4
+    [languages.en.params.homepage.social]
+        # Global params common for both languages
+        title = "Get in touch"
+        description = "If you have any requests or want any information, please do not hesitate to contact me!"
+        #instagram = "https://"
+        #youtube=""
+        email = "mailto:info@fitness4free.it"
 
 [params]
     # Enable the darkmode toggle in header
@@ -64,7 +80,7 @@ DefaultContentLanguageInSubdir = true
     enableSearch = true
 
     # Custom copyright - optional
-    copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
+    copyright = "Copyright © 2022 - Fitness 4 Free · All rights reserved"
     favicon = "/favicon.svg"
 
     # Color for the intro details and social links block, not applicable for dark mode
@@ -73,7 +89,7 @@ DefaultContentLanguageInSubdir = true
     ascentColor = "bg-green-50"
 
     # The page bundle that is shown on the front page
-    frontBundle = "blog"
+    #frontBundle = "programmi"
 
     # Used to hide the post metadata such as posted date, reading time and word count
     # Can be used at site level or page level
@@ -81,15 +97,15 @@ DefaultContentLanguageInSubdir = true
 
     # To hide "Other languages" option if the post is available in multiple languages
     # Can be used at site level or page level
-    hideOtherLanguages = false
+    hideOtherLanguages = true
 
-[params.homepage.social]
+#[params.homepage.social.en]
     # Global params common for both languages
-    title = "Follow me"
-    description = "I work on everything coding and tweet developer memes"
-    instagram = "https://"
-    youtube=""
-    email = "mailto:info@fitness4free.it"
+    #title = "Get in touch"
+    #description = "I work on everything coding and tweet developer memes"
+    #instagram = "https://"
+    #youtube=""
+    #email = "mailto:info@fitness4free.it"
     
 
 [[menu.main]]

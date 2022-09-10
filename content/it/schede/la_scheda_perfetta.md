@@ -1,9 +1,9 @@
 ---
 author: Andrea Paolo
-title: Programma 1
+title: La scheda perfetta
 #date: 
-description: Sint veniam cillum ea ut do veniam minim fugiat pariatur velit exercitation mollit reprehenderit tempor.
-#keywords: ["about-us", "about-hugo", "contact"]
+description: Una routine di 4 giorni settimanali basata su una progressione di 3 settimane che si ripetono all'infinito
+thumbnail: /schede/pexels_01.jpg
 ---
 
 # Lorem
