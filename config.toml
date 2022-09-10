@@ -1,4 +1,111 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'it'
+title = 'Fitness 4 Free'
 theme = "blist"
+
+DefaultContentLanguage = "it"
+DefaultContentLanguageInSubdir = true
+[languages]
+    #Italiano
+    [languages.it]
+    contentDir = "content/it" #Italiano
+    weight = 1
+    languageName = "Italiano"
+    [languages.it.params]
+      introTitle = "Fitness 4 Free"
+      introSubtitle = "Fugiat enim ad culpa ad reprehenderit nulla tempor aute nostrud aliquip irure consectetur fugiat aliquip."
+      introPhoto = "/logo.svg"
+      #logo = "/logo.svg"
+    [[languages.it.menu.main]]
+        name = "Il progetto"
+        url = "page/progetto/"
+        weight = 1
+    [[languages.it.menu.main]]
+        name = "Schede"
+        url = "blog"
+        weight = 2
+    [[languages.it.menu.main]]
+        name = "Allenamenti"
+        url = "tags"
+        weight = 3
+
+    #English  
+    [languages.en]
+    contentDir = "content/en" #English
+    weight = 1
+    languageName = "English"
+    [languages.en.params]
+      introTitle = "Fitness 4 Free"
+      introSubtitle = "Do excepteur id commodo voluptate et commodo ex adipisicing."
+      introPhoto = "/logo.svg"
+      #logo = "/logo.svg"
+    [[languages.en.menu.main]]
+        name = "The project"
+        url = "page/project/"
+        weight = 1
+    [[languages.en.menu.main]]
+        name = "Programs"
+        url = "blog"
+        weight = 2
+    [[languages.en.menu.main]]
+        name = "Workouts"
+        url = "tags"
+        weight = 3
+    #[[languages.en.menu.main]]
+        #name = "Top Post"
+        #url = "/en/blog/emoji-support/"
+        #weight = 4
+
+[params]
+    # Enable the darkmode toggle in header
+    darkModeToggle = true
+
+    # Enable search in header
+    enableSearch = true
+
+    # Custom copyright - optional
+    copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
+    favicon = "/favicon.svg"
+
+    # Color for the intro details and social links block, not applicable for dark mode
+    # Supported values: Any color from TailwindCSS default colors
+    # Reference: https://tailwindcss.com/docs/customizing-colors
+    ascentColor = "bg-green-50"
+
+    # The page bundle that is shown on the front page
+    frontBundle = "blog"
+
+    # Used to hide the post metadata such as posted date, reading time and word count
+    # Can be used at site level or page level
+    hideMeta = true
+
+    # To hide "Other languages" option if the post is available in multiple languages
+    # Can be used at site level or page level
+    hideOtherLanguages = false
+
+[params.homepage.social]
+    # Global params common for both languages
+    title = "Follow me"
+    description = "I work on everything coding and tweet developer memes"
+    instagram = "https://"
+    youtube=""
+    email = "mailto:info@fitness4free.it"
+    
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+
+[build]
+    writeStats = true
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+# syntax highlight settings
+[markup]
+    [markup.highlight]
+        style = "dracula"
+    [markup.goldmark.renderer]
+        # Enable to include inline HTML
+        unsafe = true
