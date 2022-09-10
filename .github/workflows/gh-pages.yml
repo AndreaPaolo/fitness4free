@@ -3,9 +3,9 @@ name: github pages
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
-  schedule:
-      - cron: '0 0 * * *' # Once per day at midnight
+      - main  # Set a branch to deploy
+  #schedule:
+      #- cron: '0 0 * * *' # Once per day at midnight
   pull_request:
 
 jobs:
@@ -28,7 +28,7 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
