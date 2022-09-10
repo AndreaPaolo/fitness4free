@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - master  # Set a branch to deploy
-  schedule:
-      - cron: '0 0 * * *' # Once per day at midnight
+  #schedule:
+      #- cron: '0 0 * * *' # Once per day at midnight
   pull_request:
 
 jobs:
