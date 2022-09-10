@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Fitness 4 Free</title>
-    <link>http://example.org/it/page/</link>
+    <link>https://andreapaolo.github.io/fitness4free/it/page/</link>
     <description>Recent content in Pages on Fitness 4 Free</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language><atom:link href="http://example.org/it/page/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language><atom:link href="https://andreapaolo.github.io/fitness4free/it/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fitness 4 Free - Il progetto</title>
-      <link>http://example.org/it/page/progetto/</link>
+      <link>https://andreapaolo.github.io/fitness4free/it/page/progetto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/it/page/progetto/</guid>
+      <guid>https://andreapaolo.github.io/fitness4free/it/page/progetto/</guid>
       <description>Fitness 4 Free è gratis.
 Fitness 4 Free non vende schede o servizi di coaching.
 Fitness 4 Free ti permette di allenarti con i migliori programmi e allenamenti del momento.

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fitness 4 Free</title>
-    <link>http://example.org/it/</link>
+    <link>https://andreapaolo.github.io/fitness4free/it/</link>
     <description>Recent content on Fitness 4 Free</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language><atom:link href="http://example.org/it/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language><atom:link href="https://andreapaolo.github.io/fitness4free/it/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fitness 4 Free - Il progetto</title>
-      <link>http://example.org/it/page/progetto/</link>
+      <link>https://andreapaolo.github.io/fitness4free/it/page/progetto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/it/page/progetto/</guid>
+      <guid>https://andreapaolo.github.io/fitness4free/it/page/progetto/</guid>
       <description>Fitness 4 Free è gratis.
 Fitness 4 Free non vende schede o servizi di coaching.
 Fitness 4 Free ti permette di allenarti con i migliori programmi e allenamenti del momento.
@@ -20,29 +20,29 @@ La vision di Fitness 4 Free Da anni il mondo del fitness è intrappolato da cont
     
     <item>
       <title>La scheda perfetta</title>
-      <link>http://example.org/it/schede/la_scheda_perfetta/</link>
+      <link>https://andreapaolo.github.io/fitness4free/it/schede/la_scheda_perfetta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/it/schede/la_scheda_perfetta/</guid>
+      <guid>https://andreapaolo.github.io/fitness4free/it/schede/la_scheda_perfetta/</guid>
       <description>Lorem Incididunt nulla mollit ex est. Commodo occaecat aliquip irure excepteur ullamco dolore non. Culpa officia laborum Lorem id aute dolor et occaecat labore qui elit. Proident laborum Lorem laborum labore id voluptate. Voluptate consequat non exercitation sit enim sunt dolor eiusmod anim ea. Veniam dolore quis dolore elit magna. Laborum pariatur consectetur culpa voluptate ea cupidatat incididunt exercitation commodo do ad est nostrud.
 Lorem Ad in consectetur cupidatat exercitation elit sit magna amet reprehenderit id laboris.</description>
     </item>
     
     <item>
       <title>Work 1</title>
-      <link>http://example.org/it/allenamenti/dorso/work1/</link>
+      <link>https://andreapaolo.github.io/fitness4free/it/allenamenti/dorso/work1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/it/allenamenti/dorso/work1/</guid>
+      <guid>https://andreapaolo.github.io/fitness4free/it/allenamenti/dorso/work1/</guid>
       <description>Workout 1 Dorso Cupidatat Lorem sunt elit incididunt laborum elit in.</description>
     </item>
     
     <item>
       <title>Work 1</title>
-      <link>http://example.org/it/allenamenti/petto/work1/</link>
+      <link>https://andreapaolo.github.io/fitness4free/it/allenamenti/petto/work1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/it/allenamenti/petto/work1/</guid>
+      <guid>https://andreapaolo.github.io/fitness4free/it/allenamenti/petto/work1/</guid>
       <description>Workout 1 Petto Nisi tempor dolor aute dolore dolore incididunt cillum fugiat.</description>
     </item>
     

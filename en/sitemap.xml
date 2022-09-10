@@ -2,68 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/en/tags/back/</loc>
+    <loc>https://andreapaolo.github.io/fitness4free/en/tags/back/</loc>
   </url><url>
-    <loc>http://example.org/en/categories/</loc>
+    <loc>https://andreapaolo.github.io/fitness4free/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://example.org/it/categories/"
+                href="https://andreapaolo.github.io/fitness4free/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://andreapaolo.github.io/fitness4free/en/categories/"
                 />
   </url><url>
-    <loc>http://example.org/en/tags/chest/</loc>
+    <loc>https://andreapaolo.github.io/fitness4free/en/tags/chest/</loc>
   </url><url>
-    <loc>http://example.org/en/</loc>
+    <loc>https://andreapaolo.github.io/fitness4free/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://example.org/it/"
+                href="https://andreapaolo.github.io/fitness4free/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://andreapaolo.github.io/fitness4free/en/"
                 />
   </url><url>
-    <loc>http://example.org/en/page/project/</loc>
+    <loc>https://andreapaolo.github.io/fitness4free/en/page/project/</loc>
   </url><url>
-    <loc>http://example.org/en/page/</loc>
+    <loc>https://andreapaolo.github.io/fitness4free/en/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://example.org/it/page/"
+                href="https://andreapaolo.github.io/fitness4free/it/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/page/"
+                href="https://andreapaolo.github.io/fitness4free/en/page/"
                 />
   </url><url>
-    <loc>http://example.org/en/training_sheets/program1/</loc>
+    <loc>https://andreapaolo.github.io/fitness4free/en/training_sheets/program1/</loc>
   </url><url>
-    <loc>http://example.org/en/tags/</loc>
+    <loc>https://andreapaolo.github.io/fitness4free/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://example.org/it/tags/"
+                href="https://andreapaolo.github.io/fitness4free/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://andreapaolo.github.io/fitness4free/en/tags/"
                 />
   </url><url>
-    <loc>http://example.org/en/training_sheets/</loc>
+    <loc>https://andreapaolo.github.io/fitness4free/en/training_sheets/</loc>
   </url><url>
-    <loc>http://example.org/en/workouts/dorso/work1/</loc>
+    <loc>https://andreapaolo.github.io/fitness4free/en/workouts/dorso/work1/</loc>
   </url><url>
-    <loc>http://example.org/en/workouts/petto/work1/</loc>
+    <loc>https://andreapaolo.github.io/fitness4free/en/workouts/petto/work1/</loc>
   </url><url>
-    <loc>http://example.org/en/workouts/</loc>
+    <loc>https://andreapaolo.github.io/fitness4free/en/workouts/</loc>
   </url>
 </urlset>
