@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Fitness 4 Free</title>
+    <link>http://example.org/it/page/</link>
+    <description>Recent content in Pages on Fitness 4 Free</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language><atom:link href="http://example.org/it/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fitness 4 Free - Il progetto</title>
+      <link>http://example.org/it/page/progetto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/it/page/progetto/</guid>
+      <description>Fitness 4 Free è gratis.
+Fitness 4 Free non vende schede o servizi di coaching.
+Fitness 4 Free ti permette di allenarti con i migliori programmi e allenamenti del momento.
+La vision di Fitness 4 Free Da anni il mondo del fitness è intrappolato da contenuti scadenti, programmi di allenamento che non garantiscono un risultato e trainer incompetenti nella programmazione annuale. Ogni anno troviamo pubblicità che spingono un nuovo metodo di allenamento rendendo obsoleto il precedente, trainer che millantano risultati ottenuti attraverso le loro metodiche di allenamento e spesso camuffati da foto ritocco o dall&amp;rsquo;utilizzo di sostanze.</description>
+    </item>
+    
+  </channel>
+</rss>
