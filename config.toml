@@ -64,6 +64,7 @@ DefaultContentLanguageInSubdir = true
         #name = "Top Post"
         #url = "/en/blog/emoji-support/"
         #weight = 4
+        
     [languages.en.params.homepage.social]
         # Global params common for both languages
         title = "Get in touch"
