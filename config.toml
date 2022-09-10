@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://andreapaolo.github.io/fitness4free/'
+#baseURL = 'https://fitness4free.it'
 languageCode = 'it'
 title = 'Fitness 4 Free'
 theme = "blist"
