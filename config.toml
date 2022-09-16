@@ -3,7 +3,9 @@ baseURL = 'https://fitness4free.it'
 languageCode = 'it'
 title = 'Fitness 4 Free'
 theme = "blist"
+
 googleAnalytics= "G-2G2TR82Y9Q"
+enableRobotsTXT = true
 
 DefaultContentLanguage = "it"
 DefaultContentLanguageInSubdir = true
@@ -13,6 +15,7 @@ DefaultContentLanguageInSubdir = true
     contentDir = "content/it" #Italiano
     weight = 1
     languageName = "Italiano"
+    description = "Fitness 4 Free è gratis, non vende schede o servizi di coaching, ti permette di allenarti con i migliori programmi e allenamenti del momento."
     [languages.it.params]
       introTitle = "Fitness 4 Free"
       introSubtitle = "Un nuovo modo di concepire il fitness"
@@ -44,6 +47,7 @@ DefaultContentLanguageInSubdir = true
         contentDir = "content/en" #English
         weight = 1
         languageName = "English"
+        description = "Fitness 4 Free is free, doesn't sell workout or coaching services, allows you to train with the best programs and workouts of the moment"
     [languages.en.params]
       introTitle = "Fitness 4 Free"
       introSubtitle = "A new way of thinking about fitness"
@@ -128,3 +132,8 @@ DefaultContentLanguageInSubdir = true
     [markup.goldmark.renderer]
         # Enable to include inline HTML
         unsafe = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self' 'unsafe-eval' 'unsafe-inline' www.google-analytics.com www.googletagmanager.com fonts.googleapis.com maxcdn.bootstrapcdn.com fonts.gstatic.com;"
