@@ -2,7 +2,7 @@
 author: Andrea Paolo
 title: 3 Weekly Workouts - Bodybuilding
 description: A 3-day weekly routine perfect for increasing strength
-thumbnail: /schede/pexels_01.jpg
+thumbnail: /schede/pexels_01.webp
 ---
 
 ## Scheda

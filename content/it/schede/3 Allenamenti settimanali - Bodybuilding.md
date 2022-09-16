@@ -2,7 +2,7 @@
 author: Andrea Paolo
 title: 3 Allenamenti settimanali - Bodybuilding
 description: Una routine di 3 giorni settimanali perfetta per incrementare la forza
-thumbnail: /schede/pexels_01.jpg
+thumbnail: /schede/pexels_01.webp
 ---
 
 ## Scheda
