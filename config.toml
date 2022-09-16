@@ -1,8 +1,9 @@
-baseURL = 'https://andreapaolo.github.io/fitness4free/'
-#baseURL = 'https://fitness4free.it'
+#baseURL = 'https://andreapaolo.github.io/fitness4free/'
+baseURL = 'https://fitness4free.it'
 languageCode = 'it'
 title = 'Fitness 4 Free'
 theme = "blist"
+googleAnalytics= "G-2G2TR82Y9Q"
 
 DefaultContentLanguage = "it"
 DefaultContentLanguageInSubdir = true
