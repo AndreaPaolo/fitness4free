@@ -43,7 +43,7 @@ thumbnail: /schede/pexels_01.jpg
 |3|Curl al cavo basso|3|10|60"|
 
 ### Come progredire?
-La progressione di questa scheda è basata sull'incremento progressivo del carico in quasi tutti gli esercizi. La scelta del carico allenante negli esercizi fondamentali deve permetterci di fare una ipotetico ripetizione extra (Esempio: panca piana con bilanciere sceglierò un carico che mi permette di fare in sicurezza 13/11/9/7 ripetizioni), così da avere la certezza di chiudere tutte le serie
+La progressione di questa scheda è basata sull'incremento progressivo del carico in quasi tutti gli esercizi. La scelta del carico allenante negli esercizi fondamentali deve permetterci di fare una ipotetico ripetizione extra (Esempio: panca piana con bilanciere sceglierò un carico che mi permette di fare in sicurezza 13/11/9/7 ripetizioni), così da avere la certezza di chiudere tutte le serie.
 
 ### Quando cambiare questa scheda?
 Una volta raggiungo un limite dove la nostra tecnica non permette di farci andare avanti, la stima di vita di questa scheda è di circa 3/4 mesi.
