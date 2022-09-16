@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Fitness 4 Free</title>
-    <link>https://andreapaolo.github.io/fitness4free/it/categories/</link>
+    <link>https://fitness4free.it/it/categories/</link>
     <description>Recent content in Categories on Fitness 4 Free</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language><atom:link href="https://andreapaolo.github.io/fitness4free/it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language><atom:link href="https://fitness4free.it/it/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,68 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andreapaolo.github.io/fitness4free/en/tags/back/</loc>
+    <loc>https://fitness4free.it/en/training_sheets/3-weekly-workouts-bodybuilding/</loc>
   </url><url>
-    <loc>https://andreapaolo.github.io/fitness4free/en/categories/</loc>
+    <loc>https://fitness4free.it/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://andreapaolo.github.io/fitness4free/it/categories/"
+                href="https://fitness4free.it/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://andreapaolo.github.io/fitness4free/en/categories/"
+                href="https://fitness4free.it/en/categories/"
                 />
   </url><url>
-    <loc>https://andreapaolo.github.io/fitness4free/en/tags/chest/</loc>
-  </url><url>
-    <loc>https://andreapaolo.github.io/fitness4free/en/</loc>
+    <loc>https://fitness4free.it/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://andreapaolo.github.io/fitness4free/it/"
+                href="https://fitness4free.it/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://andreapaolo.github.io/fitness4free/en/"
+                href="https://fitness4free.it/en/"
                 />
   </url><url>
-    <loc>https://andreapaolo.github.io/fitness4free/en/page/project/</loc>
+    <loc>https://fitness4free.it/en/page/project/</loc>
   </url><url>
-    <loc>https://andreapaolo.github.io/fitness4free/en/page/</loc>
+    <loc>https://fitness4free.it/en/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://andreapaolo.github.io/fitness4free/it/page/"
+                href="https://fitness4free.it/it/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://andreapaolo.github.io/fitness4free/en/page/"
+                href="https://fitness4free.it/en/page/"
                 />
   </url><url>
-    <loc>https://andreapaolo.github.io/fitness4free/en/training_sheets/program1/</loc>
-  </url><url>
-    <loc>https://andreapaolo.github.io/fitness4free/en/tags/</loc>
+    <loc>https://fitness4free.it/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://andreapaolo.github.io/fitness4free/it/tags/"
+                href="https://fitness4free.it/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://andreapaolo.github.io/fitness4free/en/tags/"
+                href="https://fitness4free.it/en/tags/"
                 />
   </url><url>
-    <loc>https://andreapaolo.github.io/fitness4free/en/training_sheets/</loc>
-  </url><url>
-    <loc>https://andreapaolo.github.io/fitness4free/en/workouts/dorso/work1/</loc>
-  </url><url>
-    <loc>https://andreapaolo.github.io/fitness4free/en/workouts/petto/work1/</loc>
-  </url><url>
-    <loc>https://andreapaolo.github.io/fitness4free/en/workouts/</loc>
+    <loc>https://fitness4free.it/en/training_sheets/</loc>
   </url>
 </urlset>
