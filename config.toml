@@ -4,7 +4,7 @@ languageCode = 'it'
 title = 'Fitness 4 Free'
 theme = "blist"
 
-googleAnalyticsID= "G-2G2TR82Y9Q"
+googleAnalytics= "G-2G2TR82Y9Q"
 enableRobotsTXT = true
 
 DefaultContentLanguage = "it"
