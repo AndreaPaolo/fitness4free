@@ -26,14 +26,14 @@ DefaultContentLanguageInSubdir = true
         name = "Il progetto"
         url = "page/progetto/"
         weight = 1
-    [[languages.it.menu.main]]
-        name = "Schede"
-        url = "schede"
-        weight = 2
-    [[languages.it.menu.main]]
-        name = "Allenamenti"
-        url = "tags"
-        weight = 3
+    #[[languages.it.menu.main]]
+    #    name = "Schede"
+    #    url = "schede"
+    #    weight = 2
+    #[[languages.it.menu.main]]
+    #    name = "Allenamenti"
+    #    url = "tags"
+    #     weight = 3
     [languages.it.params.homepage.social]
         # Global params common for both languages
         title = "Contattami"
@@ -58,14 +58,14 @@ DefaultContentLanguageInSubdir = true
         name = "The project"
         url = "page/project/"
         weight = 1
-    [[languages.en.menu.main]]
-        name = "Training sheets"
-        url = "training_sheets"
-        weight = 2
-    [[languages.en.menu.main]]
-        name = "Workouts"
-        url = "tags"
-        weight = 3
+    #[[languages.en.menu.main]]
+    #    name = "Training sheets"
+    #    url = "training_sheets"
+    #    weight = 2
+    #[[languages.en.menu.main]]
+    #    name = "Workouts"
+    #    url = "tags"
+    #    weight = 3
     #[[languages.en.menu.main]]
         #name = "Top Post"
         #url = "/en/blog/emoji-support/"
